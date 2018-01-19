@@ -9,5 +9,5 @@ add A
 add B
 
 add C
-Creating a new branch is quick.
+Creating a new branch is quick & simple.
 
